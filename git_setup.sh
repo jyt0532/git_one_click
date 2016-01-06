@@ -16,5 +16,3 @@ mv git-completion.bash .git-completion.bash
   	##. ~/.git-completion.bash
 	##fi
 
-staged
-working
